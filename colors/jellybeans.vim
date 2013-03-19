@@ -549,3 +549,18 @@ delf s:grey_color
 delf s:grey_level
 delf s:grey_number
 " }}}
+
+" by junegunn
+hi! link rubyQuoteSingle StringDelimiter
+hi Normal                     ctermbg=236
+hi Visual                     ctermbg=234
+hi NonText                    ctermbg=235
+hi Todo                       ctermfg=196 ctermbg=232 cterm=bold
+hi Search                     ctermbg=26  ctermfg=230 cterm=none
+hi String                     ctermbg=235
+hi StringDelimiter            ctermfg=202 ctermbg=235
+hi rubyArrayDelimiter         ctermfg=220
+hi rubyBlockParameterList     ctermfg=134
+hi rubyCurlyBlockDelimiter    ctermfg=115
+hi rubyInterpolationDelimiter ctermbg=235
+
