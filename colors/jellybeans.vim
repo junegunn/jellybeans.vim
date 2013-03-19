@@ -562,5 +562,5 @@ hi StringDelimiter            ctermfg=202 ctermbg=235
 hi rubyArrayDelimiter         ctermfg=220
 hi rubyBlockParameterList     ctermfg=134
 hi rubyCurlyBlockDelimiter    ctermfg=115
-hi rubyInterpolationDelimiter ctermbg=235
+hi rubyInterpolationDelimiter ctermbg=235 ctermfg=216
 
